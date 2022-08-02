@@ -1,4 +1,10 @@
 {
   "name": "@reggi/main",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "scripts": {
+    "start": "yarn tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
 }
